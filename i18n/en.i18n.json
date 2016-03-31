@@ -1,0 +1,73 @@
+{
+
+	/*Config*/
+	"configName": "Pick-Vault",
+	"configTitle": "Predict the results, proove your instincts.",
+	"configSubtitle": "Say how it's gonna go down, and share your picks with friends or live to the world.",
+
+	/*Home*/
+	"getstarted": "Get Started",
+	"dashboard": "Go to dashboard",
+	"learn": "Learn more",
+	"intro": "Pick Vault",
+	"how": "How It Works",
+	"step_1": "Step 1",
+	"step_1_text": "Select the match from the list",
+	"step_2": "Step 2",
+	"step_2_text": "Choose who the winner and looser will be, and add additional details",
+	"step_3": "Step 3",
+	"step_3_text": "Save your prediction for your personal notes, for a private group of friends or share it publically to the world.",
+	"section_ipad_header": "Predict the match live on your iPad",
+	"section_ipad_text": "Save who will win or loose and proove your skills after the match",
+	"section_ipad_btn": "More &gt;",
+	"final_text": "This service is just for fun, anyone can play! No money or gambling involved.",
+	"final_cta": "Take a look",
+
+	/*Shared*/
+
+	"favorite": "Favorite",
+
+	 /*Navbar*/
+	"admin": "Admin",
+	"profile": "Profile",
+	"account": "Account",
+	"signout": "Sign out",
+	"signup": "Sign up",
+	"login": "Log in",
+	"login2": "Login",
+	"edit_profile": "Edit Profile",
+
+	/*Not Found*/
+	"not_found": "Nothing here.",
+
+
+	/*Dashboard*/
+	"add_post": "Add a Post",
+	"add_post_btn": "Add Post",
+	"add_post_modal": "Add with a modal",
+	"add_post_modal_btn": "Add a new post",
+	"edit_post": "Edit post",
+	"delete": "Delete",
+	"favorites": "Favorites",
+
+	/*Account*/
+	"account_details": "Account Details",
+	"delete_account": "Delete Account",
+	"delete_account_warn": "There's no coming back from this one",
+	"delete_account_warn2": "Are you sure you want to delete your account?",
+	"close": "Close",
+	"change_pswd": "Change Password",
+
+	/*Profile*/
+	"update": "Update",
+
+	/*Posts*/
+
+	"postTitle": "Title",
+	"postContent": "Content",
+	"postPicture": "Picture",
+	// "uploadLabel": "Choose File",
+	"profilePicture": "Profile Picture"
+
+
+}
